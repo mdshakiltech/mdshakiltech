@@ -19,6 +19,14 @@ A Computer Science graduate passionate about Software Testing and Quality Assura
 
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-shakil-107716310" target="_blank"> 
+<img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin" alt="View LinkedIn Profile"/>
+
+  </a>
+</p>
+
+
 ---
 
 ## 👨‍💻 About Me
