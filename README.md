@@ -7,6 +7,14 @@
 
 **Manual Testing | Jira | API Testing with Postman | SQL | Java | Selenium WebDriver**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Manual%20Testing-Quality%20Assurance-blue?style=for-the-badge" alt="Manual Testing"/>
+  <img src="https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge" alt="API Testing with Postman"/>
+  <img src="https://img.shields.io/badge/SQL-Database%20Testing-blue?style=for-the-badge" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge" alt="Java Learning"/>
+  <img src="https://img.shields.io/badge/Selenium-Learning-green?style=for-the-badge" alt="Selenium Learning"/>
+</p>
+
 A Computer Science graduate passionate about Software Testing and Quality Assurance. I am developing practical QA skills through hands-on testing, test case design, defect reporting, and web application testing.
 
 </div>
